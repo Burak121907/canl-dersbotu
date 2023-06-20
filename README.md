@@ -1,4 +1,4 @@
-# canl-dersbotu
+# canlı-dersbotu
 aksaray üniversitesi asuzem canlı ders sistemi derslerine otomatik giren program
 Terminala komutları sırasıyla yazın:
 
